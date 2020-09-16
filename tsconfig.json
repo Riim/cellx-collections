@@ -1,0 +1,21 @@
+{
+	"compilerOptions": {
+		"declaration": true,
+		"experimentalDecorators": true,
+		"lib": ["ES2017", "DOM"],
+		"module": "ES2015",
+		"moduleResolution": "Node",
+		"newLine": "lf",
+		"noImplicitAny": true,
+		"noImplicitReturns": true,
+		"noUnusedLocals": true,
+		"outDir": "dist",
+		"preserveConstEnums": true,
+		"strictNullChecks": true,
+		"suppressImplicitAnyIndexErrors": true,
+		"target": "ES2017"
+	},
+	"files": [
+		"src/cellx-collections.ts"
+	]
+}
