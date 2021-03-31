@@ -2,8 +2,8 @@
   "name": "cellx-collections",
   "version": "1.0.1",
   "description": "",
-  "type": "module",
-  "main": "dist/cellx-collections.js",
+  "type": "commonjs",
+  "main": "dist/cellx-collections.umd.js",
   "typings": "dist/cellx-collections.d.ts",
   "scripts": {
     "build": "rm -rf dist && tsc && rollup -c",
